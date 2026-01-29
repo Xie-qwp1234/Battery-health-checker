@@ -1,4 +1,5 @@
 # Battery-health-checker
+## Battery-health
 Battery Health Tray 是一個 Windows 系統匣小工具，用來顯示筆電的電池健康度百分比。
 
 程式為單一可執行檔，不需要安裝 Python 或任何額外環境。
